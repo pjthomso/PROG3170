@@ -1,0 +1,6 @@
+C:\Users\Peter Thomson\Desktop\School\Courses\Fall 2015\PROG3170\NDPTassignment2\NDPTassign2Client\bin\Debug\NDPTassign2Client.exe.config
+C:\Users\Peter Thomson\Desktop\School\Courses\Fall 2015\PROG3170\NDPTassignment2\NDPTassign2Client\bin\Debug\NDPTassign2Client.exe
+C:\Users\Peter Thomson\Desktop\School\Courses\Fall 2015\PROG3170\NDPTassignment2\NDPTassign2Client\bin\Debug\NDPTassign2Client.pdb
+C:\Users\Peter Thomson\Desktop\School\Courses\Fall 2015\PROG3170\NDPTassignment2\NDPTassign2Client\obj\Debug\NDPTassign2Client.exe
+C:\Users\Peter Thomson\Desktop\School\Courses\Fall 2015\PROG3170\NDPTassignment2\NDPTassign2Client\obj\Debug\NDPTassign2Client.pdb
+C:\Users\Peter Thomson\Desktop\School\Courses\Fall 2015\PROG3170\NDPTassignment2\NDPTassign2Client\obj\Debug\NDPTassign2Client.csprojResolveAssemblyReference.cache
